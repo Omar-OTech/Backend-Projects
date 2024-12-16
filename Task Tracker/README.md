@@ -30,9 +30,9 @@
 - Make it executable: chmod +x task-cli.py
 - Run commands like:
 
-- ./task-cli.py add "Buy groceries"
-- ./task-cli.py add "Buy groceries2"
-- ./task-cli.py list
-- ./task-cli.py mark-in-progress 1
-- ./task-cli.py mark-done 1
-- ./task-cli.py delete 1
+* ./task-cli.py add "Buy groceries"
+* ./task-cli.py add "Buy groceries2"
+* ./task-cli.py list
+* ./task-cli.py mark-in-progress 1
+* ./task-cli.py mark-done 1
+* ./task-cli.py delete 1
