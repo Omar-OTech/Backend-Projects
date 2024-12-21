@@ -1,6 +1,6 @@
 # Let me explain the key components of the solution:
 
-## [TaskTracker cli](https://roadmap.sh/projects/task-tracker)
+[TaskTracker cli](https://roadmap.sh/projects/task-tracker)
 
 ## TaskTracker Class:
 
