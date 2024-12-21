@@ -112,7 +112,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Omar
 - GitHub: [@Omar](https://github.com/Omar-OTech)
-- Email: your.email@example.com
 
 ## Acknowledgments
 
